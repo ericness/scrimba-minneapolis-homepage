@@ -1,4 +1,4 @@
-# coe4949d3a9fe16a31d263bd8
+# Minneapolis Homepage
 
 Quick start:
 
